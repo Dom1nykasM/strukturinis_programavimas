@@ -28,7 +28,20 @@ int main() {
     double kiekis;
     double rezultatas = 0;
 
+    // meniu pasirinkimai
+    cout << "keitykla\n";
+    cout << "1-palygint kursa\n";
+    cout << "2-pirkti valiuta\n";
+    cout << "3-parduoti valiuta\n";
+    cout << "pasirinkite veiksma: ";
+    cin >> pasirinkimas;
 
+    cout << "\npasirinkite valiuta:\n";
+    cout << "1-GBP\n";
+    cout << "2-USD\n";
+    cout << "3-INR\n";
+    cout << "iveskite veiksmo skaiciu:";
+    cin >> valiuta
 
 
 
