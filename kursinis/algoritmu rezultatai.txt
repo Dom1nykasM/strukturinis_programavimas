@@ -1,0 +1,578 @@
+*** masyvo dydis 5000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      61148 mks
+  palyginimai 12497500
+  sukeitimai 4988
+
+=== salajinis rikiavimas ===
+  laikas      3411 mks
+  palyginimai 55234
+  perkelimai 61808
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      62638 mks
+  palyginimai 12497500
+  sukeitimai 2500
+
+=== salajinis rikiavimas ===
+  laikas      2459 mks
+  palyginimai 29804
+  perkelimai 61808
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      51039 mks
+  palyginimai 12497500
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      2185 mks
+  palyginimai 32004
+  perkelimai 61808
+
+*** masyvo dydis 10000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      205307 mks
+  palyginimai 49995000
+  sukeitimai 9992
+
+=== salajinis rikiavimas ===
+  laikas      5477 mks
+  palyginimai 120465
+  perkelimai 133616
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      219169 mks
+  palyginimai 49995000
+  sukeitimai 5000
+
+=== salajinis rikiavimas ===
+  laikas      4323 mks
+  palyginimai 64608
+  perkelimai 133616
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      204838 mks
+  palyginimai 49995000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      4162 mks
+  palyginimai 69008
+  perkelimai 133616
+
+*** masyvo dydis 50000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      5.19415e+06 mks
+  palyginimai 1249975000
+  sukeitimai 49994
+
+=== salajinis rikiavimas ===
+  laikas      30728 mks
+  palyginimai 718359
+  perkelimai 784464
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      5.52282e+06 mks
+  palyginimai 1249975000
+  sukeitimai 25000
+
+=== salajinis rikiavimas ===
+  laikas      23353 mks
+  palyginimai 382512
+  perkelimai 784464
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      5.09824e+06 mks
+  palyginimai 1249975000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      21553 mks
+  palyginimai 401952
+  perkelimai 784464
+
+___________________antras________________________________________________
+
+*** masyvo dydis 5000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      72550 mks
+  palyginimai 12497500
+  sukeitimai 4988
+
+=== salajinis rikiavimas ===
+  laikas      4001 mks
+  palyginimai 55234
+  perkelimai 61808
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      76131 mks
+  palyginimai 12497500
+  sukeitimai 2500
+
+=== salajinis rikiavimas ===
+  laikas      3296 mks
+  palyginimai 29804
+  perkelimai 61808
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      70603 mks
+  palyginimai 12497500
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      3346 mks
+  palyginimai 32004
+  perkelimai 61808
+
+*** masyvo dydis 10000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      285677 mks
+  palyginimai 49995000
+  sukeitimai 9992
+
+=== salajinis rikiavimas ===
+  laikas      8208 mks
+  palyginimai 120465
+  perkelimai 133616
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      354705 mks
+  palyginimai 49995000
+  sukeitimai 5000
+
+=== salajinis rikiavimas ===
+  laikas      9530 mks
+  palyginimai 64608
+  perkelimai 133616
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      350761 mks
+  palyginimai 49995000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      8909 mks
+  palyginimai 69008
+  perkelimai 133616
+
+*** masyvo dydis 50000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.53822e+06 mks
+  palyginimai 1249975000
+  sukeitimai 49994
+
+=== salajinis rikiavimas ===
+  laikas      46344 mks
+  palyginimai 718359
+  perkelimai 784464
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.92979e+06 mks
+  palyginimai 1249975000
+  sukeitimai 25000
+
+=== salajinis rikiavimas ===
+  laikas      35385 mks
+  palyginimai 382512
+  perkelimai 784464
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.37367e+06 mks
+  palyginimai 1249975000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      36945 mks
+  palyginimai 401952
+  perkelimai 784464
+
+_________________trecias________________
+
+*** masyvo dydis 5000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      73751 mks
+  palyginimai 12497500
+  sukeitimai 4988
+
+=== salajinis rikiavimas ===
+  laikas      4465 mks
+  palyginimai 55234
+  perkelimai 61808
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      75628 mks
+  palyginimai 12497500
+  sukeitimai 2500
+
+=== salajinis rikiavimas ===
+  laikas      3392 mks
+  palyginimai 29804
+  perkelimai 61808
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      72903 mks
+  palyginimai 12497500
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      4412 mks
+  palyginimai 32004
+  perkelimai 61808
+
+*** masyvo dydis 10000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      290778 mks
+  palyginimai 49995000
+  sukeitimai 9992
+
+=== salajinis rikiavimas ===
+  laikas      9462 mks
+  palyginimai 120465
+  perkelimai 133616
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      299761 mks
+  palyginimai 49995000
+  sukeitimai 5000
+
+=== salajinis rikiavimas ===
+  laikas      7882 mks
+  palyginimai 64608
+  perkelimai 133616
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      292686 mks
+  palyginimai 49995000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      6915 mks
+  palyginimai 69008
+  perkelimai 133616
+
+*** masyvo dydis 50000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.40346e+06 mks
+  palyginimai 1249975000
+  sukeitimai 49994
+
+=== salajinis rikiavimas ===
+  laikas      43882 mks
+  palyginimai 718359
+  perkelimai 784464
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.68547e+06 mks
+  palyginimai 1249975000
+  sukeitimai 25000
+
+=== salajinis rikiavimas ===
+  laikas      34571 mks
+  palyginimai 382512
+  perkelimai 784464
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.20935e+06 mks
+  palyginimai 1249975000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      35096 mks
+  palyginimai 401952
+  perkelimai 784464
+
+________ketvirtas_______________
+
+*** masyvo dydis 5000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      78792 mks
+  palyginimai 12497500
+  sukeitimai 4988
+
+=== salajinis rikiavimas ===
+  laikas      4746 mks
+  palyginimai 55234
+  perkelimai 61808
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      77994 mks
+  palyginimai 12497500
+  sukeitimai 2500
+
+=== salajinis rikiavimas ===
+  laikas      4164 mks
+  palyginimai 29804
+  perkelimai 61808
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      71729 mks
+  palyginimai 12497500
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      3510 mks
+  palyginimai 32004
+  perkelimai 61808
+
+*** masyvo dydis 10000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      286299 mks
+  palyginimai 49995000
+  sukeitimai 9992
+
+=== salajinis rikiavimas ===
+  laikas      8274 mks
+  palyginimai 120465
+  perkelimai 133616
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      296253 mks
+  palyginimai 49995000
+  sukeitimai 5000
+
+=== salajinis rikiavimas ===
+  laikas      6746 mks
+  palyginimai 64608
+  perkelimai 133616
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      287520 mks
+  palyginimai 49995000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      6887 mks
+  palyginimai 69008
+  perkelimai 133616
+
+*** masyvo dydis 50000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.56684e+06 mks
+  palyginimai 1249975000
+  sukeitimai 49994
+
+=== salajinis rikiavimas ===
+  laikas      45042 mks
+  palyginimai 718359
+  perkelimai 784464
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.87351e+06 mks
+  palyginimai 1249975000
+  sukeitimai 25000
+
+=== salajinis rikiavimas ===
+  laikas      34898 mks
+  palyginimai 382512
+  perkelimai 784464
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      7.38532e+06 mks
+  palyginimai 1249975000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      35783 mks
+  palyginimai 401952
+  perkelimai 784464
+
+___________penktas__________
+
+
+*** masyvo dydis 5000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      54003 mks
+  palyginimai 12497500
+  sukeitimai 4988
+
+=== salajinis rikiavimas ===
+  laikas      2766 mks
+  palyginimai 55234
+  perkelimai 61808
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      54537 mks
+  palyginimai 12497500
+  sukeitimai 2500
+
+=== salajinis rikiavimas ===
+  laikas      2077 mks
+  palyginimai 29804
+  perkelimai 61808
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      52984 mks
+  palyginimai 12497500
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      2102 mks
+  palyginimai 32004
+  perkelimai 61808
+
+*** masyvo dydis 10000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      222962 mks
+  palyginimai 49995000
+  sukeitimai 9992
+
+=== salajinis rikiavimas ===
+  laikas      7624 mks
+  palyginimai 120465
+  perkelimai 133616
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      232933 mks
+  palyginimai 49995000
+  sukeitimai 5000
+
+=== salajinis rikiavimas ===
+  laikas      4342 mks
+  palyginimai 64608
+  perkelimai 133616
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      202803 mks
+  palyginimai 49995000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      4226 mks
+  palyginimai 69008
+  perkelimai 133616
+
+*** masyvo dydis 50000 ***
+
+--- nesurikiuoti duomenys ---
+
+=== isrinkimo rikiavimas ===
+  laikas      5.28677e+06 mks
+  palyginimai 1249975000
+  sukeitimai 49994
+
+=== salajinis rikiavimas ===
+  laikas      32298 mks
+  palyginimai 718359
+  perkelimai 784464
+
+--- atvirksciai surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      6.09145e+06 mks
+  palyginimai 1249975000
+  sukeitimai 25000
+
+=== salajinis rikiavimas ===
+  laikas      23498 mks
+  palyginimai 382512
+  perkelimai 784464
+
+--- jau surikiuoti ---
+
+=== isrinkimo rikiavimas ===
+  laikas      5.64042e+06 mks
+  palyginimai 1249975000
+  sukeitimai 0
+
+=== salajinis rikiavimas ===
+  laikas      23425 mks
+  palyginimai 401952
+  perkelimai 784464
