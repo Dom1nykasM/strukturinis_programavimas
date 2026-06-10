@@ -1,0 +1,105 @@
+honda
+del sol si
+1994
+1600
+130
+ne-jdm
+7800
+honda
+del sol
+1993
+1600
+125
+jdm
+8500
+mazda
+mx-5 na
+1990
+1600
+115
+jdm
+9000
+honda
+civic ek
+1999
+1600
+160
+jdm
+9200
+honda
+civic eg
+1992
+1600
+158
+jdm
+11000
+nissan
+180sx
+1991
+1800
+205
+jdm
+13000
+honda
+integra dc2
+1996
+1800
+190
+jdm
+14000
+toyota
+ae86 trueno
+1985
+1600
+128
+jdm
+16000
+subaru
+impreza gc8
+1997
+2000
+280
+jdm
+18000
+mitsubishi
+lancer evo
+2003
+2000
+276
+jdm
+19500
+nissan
+silvia s15
+1999
+2000
+250
+jdm
+22000
+mazda
+rx-7 fd
+1993
+1300
+255
+jdm
+28000
+toyota
+supra mk4
+1994
+3000
+320
+jdm
+45000
+honda
+nsx
+1991
+3000
+320
+jdm
+70000
+nissan
+skyline r34
+1999
+2600
+280
+jdm
+60000
