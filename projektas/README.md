@@ -7,7 +7,7 @@ automobiliu valdymo programa
 konsoleje veikianti c++ programa, leidzia tvarkyti automobiliu sarasa.
 
 ## naudojimo instrukcija
-1. atsisiuskite automobiliai.cpp ir automobiliai.txt, idekite i ta pati folder
+1. atsisiuskite automobiliai.cpp ir automobiliai.txt, idekite i ta pati folder (.txt failo ikelti nebutina, programa sukurs pati jei nera
 2. atidarykite pasirinktina platforma kodui paleisti
 3. ikopijuokite koda i main.cpp, arba paleiskite automobiliai.cpp
 
