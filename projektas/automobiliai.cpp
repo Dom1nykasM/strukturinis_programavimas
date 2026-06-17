@@ -21,7 +21,6 @@ struct Automobilis {
 // vektoriaus saugykla visiems automobiliams
 vector<Automobilis> automobiliai;
 
-// PAGALBINES FUNKCIJOS (naudojamos kituose)
 
 // spausdina viena automobili ekrane
 void spausdintiAutomobili(const Automobilis& a, int nr) {
@@ -62,12 +61,12 @@ void issaugotiIFaila() {
 void nuskaitytiIsFailo() {
     ifstream failas("automobiliai.txt");
     if (!failas) {
-        // jei failo nera - nieko nedaro, bus ikelti pradiniai duomenys
+        // jei failo nera nieko nedaro bus ikelti pradiniai duomenys
         return;
     }
-    automobiliai.clear(); // isvalome sena sarasa
+    automobiliai.clear(); // isvalo sena sarasa
     Automobilis a;
-    // skaitome po viena automobili kol baigiasi failas
+    // skaito po viena automobili kol baigiasi failas
     while (getline(failas, a.marke)) {
         getline(failas, a.modelis);
         failas >> a.metai >> a.turis >> a.galia;
@@ -225,7 +224,7 @@ void palintiAutomobili() {
 }
 
 // rikiavimas pagal kaina
-// naudojame std::sort su savo palyginimo funkcija
+// naudojam std::sort su savo palyginimo funkcija
 bool palyginkainaAsc(const Automobilis& a, const Automobilis& b) {
     return a.kaina < b.kaina;
 }
@@ -235,7 +234,7 @@ void rikiuotiPagalKaina() {
         cout << "sarasas tuscias." << endl;
         return;
     }
-    // std::sort surikiuoja vektoriu pagal musu funkcija
+    // std::sort surikiuoja vektoriu pagal funkcija
     sort(automobiliai.begin(), automobiliai.end(), palyginkainaAsc);
     issaugotiIFaila();
     cout << "\nautomobiliai surikiuoti pagal kaina (maziausia pirma):" << endl;
