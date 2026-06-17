@@ -12,7 +12,7 @@ struct Automobilis {
     string marke;       // automobilio marke
     string modelis;     // modelis
     int metai;          // pagaminimo metai
-    int rite;           // variklio turis
+    int turis;           // variklio turis
     int galia;          // galia
     string tipas;       // tipas
     float kaina;        // kaina
@@ -30,7 +30,7 @@ void spausdintiAutomobili(const Automobilis& a, int nr) {
     cout << "  marke    : " << a.marke << endl;
     cout << "  modelis  : " << a.modelis << endl;
     cout << "  metai    : " << a.metai << endl;
-    cout << "  rite     : " << a.rite << " cc" << endl;
+    cout << "  turis     : " << a.turis << " cc" << endl;
     cout << "  galia    : " << a.galia << " ag" << endl;
     cout << "  tipas    : " << a.tipas << endl;
     cout << "  kaina    : " << fixed << setprecision(2) << a.kaina << " eur" << endl;
@@ -50,7 +50,7 @@ void issaugotiIFaila() {
         failas << a.marke << "\n"
                << a.modelis << "\n"
                << a.metai << "\n"
-               << a.rite << "\n"
+               << a.turis << "\n"
                << a.galia << "\n"
                << a.tipas << "\n"
                << a.kaina << "\n";
@@ -70,7 +70,7 @@ void nuskaitytiIsFailo() {
     // skaitome po viena automobili kol baigiasi failas
     while (getline(failas, a.marke)) {
         getline(failas, a.modelis);
-        failas >> a.metai >> a.rite >> a.galia;
+        failas >> a.metai >> a.turis >> a.galia;
         failas.ignore();
         getline(failas, a.tipas);
         failas >> a.kaina;
@@ -123,8 +123,8 @@ void pridetiAutomobili() {
     cin >> a.modelis;
     cout << "iveskite gamybos metus: ";
     cin >> a.metai;
-    cout << "iveskite variklio rite (cc): ";
-    cin >> a.rite;
+    cout << "iveskite variklio turis (cc): ";
+    cin >> a.turis;
     cout << "iveskite galia (ag): ";
     cin >> a.galia;
     cout << "iveskite tipa (jdm / ne-jdm): ";
@@ -174,7 +174,7 @@ void redaguotiAutomobili() {
     }
     rodytiVisus(); //parodo sarasa kad vartotojas matyu numerius
     int nr;
-    cout << "\nkuri automobili norite redaguoti? (1-" << automobiliai.size() << "): ";
+    cout << "\nkuri automobili noturis redaguoti? (1-" << automobiliai.size() << "): ";
     cin >> nr;
     if (nr < 1 || nr > automobiliai.size()) {
         cout << "neteisinga numeris." << endl;
@@ -190,8 +190,8 @@ void redaguotiAutomobili() {
     cin >> a.modelis;
     cout << "nauji metai (" << a.metai << "): ";
     cin >> a.metai;
-    cout << "naujas rite (" << a.rite << " cc): ";
-    cin >> a.rite;
+    cout << "naujas turis (" << a.turis << " cc): ";
+    cin >> a.turis;
     cout << "nauja galia (" << a.galia << " ag): ";
     cin >> a.galia;
     cout << "naujas tipas (" << a.tipas << "): ";
